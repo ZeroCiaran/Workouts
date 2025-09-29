@@ -6,7 +6,8 @@ A simple, structured workout split designed for strength, endurance, and mobilit
 
 ## 📦 What's Inside
 
-- `workout.md`: Full 4-day workout plan with timing, structure, and exercise breakdown
+- `Week1.md`: Full 4-day workout plan with timing, structure, and exercise breakdown  
+- `Week1.seconds`: Exported timer file from the **Seconds Interval Timer** app  
 - Ready-to-use format for personal tracking, sharing, or customizing
 
 ---
